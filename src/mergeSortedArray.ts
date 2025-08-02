@@ -1,32 +1,25 @@
-let nums1 = [1,2,3,0,0,0];
-let nums2 =[2,5,6];
+function merge2(nums1: number[], m: number, nums2: number[], n: number): void {
+    let p1 = m - 1;
+    let p2 = n - 1;
+    let p = m + n - 1;
 
-function advancedMerge(nums1: number[], m: number, nums2: number[], n: number): void {
-    let result: number[] = [];
-    let i = 0;
-    let j = 0;
-
-    while(i < nums1.length && j < nums2.length) {
-        if(nums1[i] < nums2[j]) {
-            if(nums1[i] !== 0) {
-                result.push(nums1[i]);
-            }
-            i++;
+    while(p1 >= 0 && p2 >= 0) {
+        if(nums1[p1] > nums2[p2]) {
+            nums1[p] = nums1[p1];
+            p1--;
         } else {
-            if(nums2[j] !== 0) {
-                result.push(nums2[j]);
-            }
-            j++;
+            nums1[p] = nums2[p2];
+            p2--;
         }
+        p--;
     }
-    nums1.slice(i).forEach((l) => {
-        result.push(l)
-    } )
-    nums2.slice(j).forEach((r) => {
-        result.push(r)
-    } )
-    nums1 = result;
-}
-advancedMerge(nums1, 3, nums2, 3);
 
+    while(p2 >= 0) {
+        nums1[p] = nums2[p2];
+        p2--;
+        p--;
+    }
+    console.log(nums1);
+};
 
+merge2([1,2,4,0,0,0], 3, [3,5,6], 3)
