@@ -11,3 +11,4 @@
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?envType=study-plan-v2&envId=top-interview-150) - [код](src%2FisPalindrom.ts)
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150) - [код](src%2FisSubsequence.ts)
 - [Two Sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150) - [код](src%2FinputArrayIsSorted.ts)
+- [Minimum Size Sub Array](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) - [код](src%2FminimumSizeSubArray.ts)
