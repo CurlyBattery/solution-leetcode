@@ -14,4 +14,4 @@
 - [Minimum Size Sub Array](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) - [код](src%2FminimumSizeSubArray.ts)
 - [Ransom Note](https://leetcode.com/problems/ransom-note/?envType=study-plan-v2&envId=top-interview-150) - [код](src%2FransomNote.ts)
 - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150) - [код](src%2FransomNote.ts)
-- 
+- [Happy Number](https://leetcode.com/problems/happy-number/?envType=study-plan-v2&envId=top-interview-150) - [isHappy.ts](src%2FisHappy.ts)
