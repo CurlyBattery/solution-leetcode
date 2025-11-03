@@ -17,3 +17,4 @@
 - [Happy Number](https://leetcode.com/problems/happy-number/?envType=study-plan-v2&envId=top-interview-150) - [isHappy.ts](src%2FisHappy.ts)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=study-plan-v2&envId=top-interview-150) - [isAnagram.ts](src%2FisAnagram.ts) 
 - [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150) - [summaryRanges.ts](src%2FsummaryRanges.ts)
+- [Place Flowers](https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75) - [canPlaceFlowers.ts](src%2FcanPlaceFlowers.ts)
