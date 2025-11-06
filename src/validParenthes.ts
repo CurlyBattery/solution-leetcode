@@ -1,4 +1,4 @@
-function validParenthes(s: string): boolean | void {
+function validParenthes(s: string): boolean  {
     let isValid = true;
     for (let i = 0; i < s.length; i++) {
         let idxSecond: number;
@@ -38,4 +38,4 @@ function validParenthes(s: string): boolean | void {
 }
 
 
-console.log(validParenthes("(])]"));
+console.log(validParenthes("({[}])"));

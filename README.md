@@ -17,4 +17,3 @@
 - [Happy Number](https://leetcode.com/problems/happy-number/?envType=study-plan-v2&envId=top-interview-150) - [isHappy.ts](src%2FisHappy.ts)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=study-plan-v2&envId=top-interview-150) - [isAnagram.ts](src%2FisAnagram.ts) 
 - [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150) - [summaryRanges.ts](src%2FsummaryRanges.ts)
-- [Counter](https://leetcode.com/problems/counter/?envType=study-plan-v2&envId=30-days-of-javascript) - [counter.ts](src%2Fcounter.ts)
