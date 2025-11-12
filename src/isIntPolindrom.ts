@@ -1,4 +1,4 @@
-function isPalindrom(x: number): booelan {
+function isPalindrom(x: number): boolean {
     let savedX = x;
     const back = [];
 

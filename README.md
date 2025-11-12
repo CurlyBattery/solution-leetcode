@@ -17,4 +17,5 @@
 - [Happy Number](https://leetcode.com/problems/happy-number/?envType=study-plan-v2&envId=top-interview-150) - [isHappy.ts](src%2FisHappy.ts)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=study-plan-v2&envId=top-interview-150) - [isAnagram.ts](src%2FisAnagram.ts) 
 - [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150) - [summaryRanges.ts](src%2FsummaryRanges.ts)
-- [ToBe]([https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript)) [toBe.ts](src%2FtoBe.ts)
+- [ToBe]([https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript)) - [toBe.ts](src%2FtoBe.ts)
+- [Counter 2](https://leetcode.com/problems/counter-ii/description/?envType=study-plan-v2&envId=30-days-of-javascript) - [counterTwo.ts](src%2FcounterTwo.ts)
