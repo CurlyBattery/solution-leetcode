@@ -19,3 +19,4 @@
 - [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150) - [summaryRanges.ts](src%2FsummaryRanges.ts)
 - [ToBe]([https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150](https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript)) - [toBe.ts](src%2FtoBe.ts)
 - [Counter 2](https://leetcode.com/problems/counter-ii/description/?envType=study-plan-v2&envId=30-days-of-javascript) - [counterTwo.ts](src%2FcounterTwo.ts)
+- [Map](https://leetcode.com/problems/apply-transform-over-each-element-in-array/?envType=study-plan-v2&envId=30-days-of-javascript) - [map.ts](src%2Fmap.ts)
